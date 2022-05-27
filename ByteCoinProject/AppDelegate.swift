@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  ByteCoinProject
-//
-//  Created by Ксения Кобак on 27.05.2022.
-//
 
 import UIKit
 
